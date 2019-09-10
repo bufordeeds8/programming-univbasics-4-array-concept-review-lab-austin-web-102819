@@ -12,4 +12,3 @@ end
 
 array = [1,2,3,4,5]
 value_to_find = 1
-
